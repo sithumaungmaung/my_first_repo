@@ -19,5 +19,5 @@
             "Sithu\\Testpack\\": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
